@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Sklep</string>
+    <string name="register">Rejestruj</string>
+    <string name="name">imię</string>
+    <string name="surname">nazwisko</string>
+    <string name="email">email</string>
+    <string name="password">hasło</string>
+    <string name="password_repeat">powtórz hasło</string>
+    <string name="have_account">Mam już konto</string>
+    <string name="logIn">Zaloguj</string>
+    <string name="dont_have_account">Nie mam konta</string>
+    <string name="login_error_title">Problem podczas logowania</string>
+    <string name="ok">OK</string>
+    <string name="user_not_found">Nie znaleziono podanego konta, jesteś pewny że utworzyłeś konto?</string>
+    <string name="email_password_empty">Pole email i hasło nie mogą byc puste</string>
+    <string name="empty_fields">żadne pole nie może pozostać puste</string>
+    <string name="register_error">Problem podczas rejestracji</string>
+    <string name="passwords_are_not_same">hasła nie są te same</string>
+    <string name="account_createed">Konto zostało utworzone. Możesz się zalogować</string>
+    <string name="buy_it">Kup teraz</string>
+    <string name="buyer_data">Dane kupującego</string>
+    <string name="item_data">przedmiot do kupienia</string>
+    <string name="shiping_data">Adres dostawy</string>
+    <string name="street">ulica</string>
+    <string name="postal_code">kod pocztowy</string>
+    <string name="city">Miasto</string>
+    <string name="building_number">Numer budynku</string>
+    <string name="cancel">Anuluj zamówienie</string>
+    <string name="error_title">Błąd</string>
+    <string name="unexpected_error">Pojawił sie niespodziewany błąd :/</string>
+    <string name="item_has_been_bought">Przedmiot został kupiony</string>
+    <string name="list_of_bought_items">Lista zakupionych produktów</string>
+    <string name="profile">Profil</string>
+</resources>
